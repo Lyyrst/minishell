@@ -101,7 +101,7 @@ This is a C program so you need to have gcc compiler.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Lyyrst/Libft.git
+   git clone https://github.com/Lyyrst/minishell.git
 2. Makefile !
    ```sh
    make && make clean
